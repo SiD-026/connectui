@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Hosted Link
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://gh-pages--social-ui-devrev-2.netlify.app/
 
 ## Available Scripts
 
